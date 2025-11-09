@@ -27,5 +27,5 @@ Built from scratch in HTML & CSS — clean dark-green theme showcasing my IoT an
 
 ---
 
-📫 Reach me at **nanduri.amarnath@email.com**  
+📫 Reach me at **amarnathnanduri008@gmail.com**  
 🌐 [nanduri-amarnath.github.io](https://nanduri-amarnath.github.io)
