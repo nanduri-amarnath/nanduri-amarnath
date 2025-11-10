@@ -8,7 +8,7 @@
 ## 🚀 Featured Projects
 
 ### 🧠 [AcaDexa v2](https://aca-dexa-v2.vercel.app/)
-A modern academic platform built with my teammate to manage courses, submissions, and evaluations.  
+A modern smart schecduling platform built with my teammate to manage courses, submissions, and evaluations.  
 **Tech:** React, Firebase, Tailwind, Node.js  
 🔗 [Live Demo](https://aca-dexa-v2.vercel.app/) | [GitHub Repo](#) nanduri-amarnath.github.io
 
