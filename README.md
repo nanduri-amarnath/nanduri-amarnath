@@ -15,7 +15,7 @@ A modern academic platform built with my teammate to manage courses, submissions
 ---
 
 ### 🌍 [Personal Portfolio Website](https://nanduri-amarnath.github.io)
-Built from scratch in HTML & CSS — clean dark-green theme showcasing my IoT and embedded projects.
+Built from scratch in HTML & CSS
 
 ---
 
